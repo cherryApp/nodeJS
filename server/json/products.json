@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Borotva",
+        "price": 1222,
+        "qty": 22
+    },
+    {
+        "name": "Borotvahab",
+        "price": 1500,
+        "qty": 102
+    },
+    {
+        "name": "Piperetükör",
+        "price": 5499,
+        "qty": 3
+    }
+]
